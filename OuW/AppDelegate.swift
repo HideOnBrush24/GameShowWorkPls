@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  OuW
+//  OwU
 //
-//  Created by Nicholas Spoletini on 2019-05-29.
+//  Created by Nicholas Spoletini on 2019-05-07.
 //  Copyright © 2019 Nicholas S. All rights reserved.
 //
 
